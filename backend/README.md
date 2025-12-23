@@ -24,7 +24,7 @@
 
    1. Open OAuth Consent Screen Settings:
        * Go to: Google Cloud Console - OAuth Consent Screen
-         (https://console.cloud.google.com/apis/credentials/consent?project=alphaaiservices-v2)
+         (https://console.cloud.google.com/apis/credentials/consent?project=myproject-v2)
 
    2. Change User Type: Go to Audience Section
        * Click the "Edit App" button (or "Make External" if you see that button immediately).
